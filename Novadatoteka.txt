@@ -8,3 +8,5 @@ git checkout _ pogleda kje smo
 
 
 BRANCHING - debugganje enga problema vzporedno, medtem master brancha ne spreminjaš in na koncu dodaš glavni datoteki ko veš da masterja nisi pokvaru.
+
+origin je ime serverja.
