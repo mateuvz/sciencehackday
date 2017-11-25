@@ -1,5 +1,10 @@
 Nekaj v kgitu k hoèmo dat  gor.
 
 Imamo server, kjer dajemo in vzemamo (push/pull)
-Lokalno pa working directory / staging / local repository (add -> commit (Options (message): -m "Add file Nova_datoteka.txt") -> push)
+Lokalno pa working directory / staging / local repository (git add imedat.txt -> git commit -m "Add file Nova_datoteka.txt" -> push)
 
+git reset _ je obratno od add -> vrne nam datoteko nazaj iz staginga v working directory.
+git checkout _ pogleda kje smo
+
+
+BRANCHING - debugganje enga problema vzporedno, medtem master brancha ne spreminjaš in na koncu dodaš glavni datoteki ko veš da masterja nisi pokvaru.
