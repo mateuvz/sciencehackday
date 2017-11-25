@@ -1,0 +1,5 @@
+Nekaj v kgitu k hoèmo dat  gor.
+
+Imamo server, kjer dajemo in vzemamo (push/pull)
+Lokalno pa working directory / staging / local repository (add -> commit (Options (message): -m "Add file Nova_datoteka.txt") -> push)
+
